@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "rogerioagjr"
 facebook:
   username               :
   app_id                 :
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rogério A. Guimarães Jr."
+  name             : "Rogério Guimarães"
   avatar           : "profile.jpeg"
-  bio              : "Undergraduate student in Computer Science and Engineering & Linguistics and Philosophy at MIT"
+  bio              : "Undergraduate student in Computer Science & Linguistics and Philosophy at MIT"
   location         : "Cambridge, MA"
   employer         :
   pubmed           :
