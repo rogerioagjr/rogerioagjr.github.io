@@ -4,10 +4,6 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-.notbold{
-font-weight:normal
-}
-
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
@@ -20,7 +16,7 @@ font-weight:normal
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.email %}<h6> <span class='notbold'> {{ author.email }}</span> </h6>{% endif %}
+    {% if author.email %}{{ author.email }}{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
