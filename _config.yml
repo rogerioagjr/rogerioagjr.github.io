@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Rogério Guimarães"
   avatar           : "profile.jpeg"
-  bio              : "Undergraduate student in Computer Science & Linguistics and Philosophy at MIT"
+  bio              : "Undergraduate student in Computer Science & <br>
+                      Linguistics and Philosophy <br>
+                      at MIT"
   location         : "Cambridge, MA"
   employer         :
   pubmed           :
@@ -103,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/0000-0002-1693-4241"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
