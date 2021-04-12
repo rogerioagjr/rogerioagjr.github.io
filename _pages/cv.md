@@ -27,7 +27,7 @@ Work experience
 ### [MIT Laboratory for Information and Decision Systems (LIDS)](https://http://www.lids.mit.edu)
 *Cambridge, MA* | *Jan 2019 - Present*
 
-####Undergraduate Researcher
+**Undergraduate Researcher**
 * **Reinforcement Learning for Agricultural Management 
   Policy Recommendation** *(February 2020 - Present)*
 
@@ -61,7 +61,7 @@ Work experience
 ### [Bridgewater Associates](https://http://www.bridgewater.com)
 *Westport, CT* | *Jun 2020 - Aug 2020*
 
-####Investment Engineering Intern
+**Investment Engineering Intern**
 * Utilizing learned macroeconomics concepts and 
   understanding of global markets, analyzed select 
   case studies to develop hypothesis of what was
@@ -69,10 +69,10 @@ Work experience
   
 * Analyzed and built a fully automated sample bond 
   trading system.
-### [Pegasystems](https://http://www.pega.com)
+###[Pegasystems](https://http://www.pega.com)
 *Cambridge, MA* | *Jun 2020 - Aug 2020*
 
-####Software Engineering Intern
+**Software Engineering Intern**
 * Member of a core engineering team with the task to 
   speed up the initialization of Kubernetes nodes when
   running Pega Platform, the main product of the 
