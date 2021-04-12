@@ -71,7 +71,7 @@ Work experience
   trading system.
   
 ### Pegasystems - [*www.pega.com*](https://www.pega.com)
-*Cambridge, MA* | *Jun 2020 - Aug 2020*
+*Cambridge, MA* | *Jun 2019 - Aug 2019*
 
 **Software Engineering Intern**
 * Member of a core engineering team with the task to 
