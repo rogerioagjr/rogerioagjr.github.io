@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-### [MIT Laboratory for Information and Decision Systems (LIDS)](https://http://www.lids.mit.edu)
+### MIT Laboratory for Information and Decision Systems (LIDS) - [*www.lids.mit.edu*](http://www.lids.mit.edu)
 *Cambridge, MA* | *Jan 2019 - Present*
 
 **Undergraduate Researcher**
@@ -58,7 +58,7 @@ Work experience
   interpretability while maximizing the accuracy of 
   common machine learning models.
 
-### [Bridgewater Associates](https://http://www.bridgewater.com)
+### Bridgewater Associates - [*www.bridgewater.com*](https://www.bridgewater.com)
 *Westport, CT* | *Jun 2020 - Aug 2020*
 
 **Investment Engineering Intern**
@@ -70,7 +70,7 @@ Work experience
 * Analyzed and built a fully automated sample bond 
   trading system.
   
-### [Pegasystems](https://http://www.pega.com)
+### Pegasystems - [*www.pega.com*](https://www.pega.com)
 *Cambridge, MA* | *Jun 2020 - Aug 2020*
 
 **Software Engineering Intern**
@@ -85,7 +85,7 @@ Work experience
   that pre-loaded such classes directly in the docker 
   image used in the nodes.
   
-### [Organização Educacional Farias Brito](https://http://www.fariasbrito.com.br)
+### Organização Educacional Farias Brito -[*www.fariasbrito.com.br*](https://www.fariasbrito.com.br)
 *Fortaleza, Brazil* | *Nov 2016 - May 2017*
 
 **Competitive Programming Teacher**
