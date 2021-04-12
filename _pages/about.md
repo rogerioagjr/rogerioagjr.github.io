@@ -51,12 +51,12 @@ linguists who understand [IPA](https://www.ipachart.com), my name is pronounced
 Personal Interests
 ======
 I really love soccer, both playing and watching! When I
-am in Brazil, I like to attent the matches of the best
+am in Brazil, I like to attend the matches of the best
 team of the Northeast: [Fortaleza](https://twitter.com/FortalezaEC?s=20).
 I also love the Brazilian national team, *the Seleção*, 
 and I went to the World Cup in 2014, in Brazil, and in
 2018, in Russia! At MIT, we have a Brazilian team called
-Ousadia that plays the Intramurals. But I don't score 
+*Ousadia* that plays the Intramurals. But I don't score 
 much though, I'm a goalie.
 
 I enjoy surfing, I also play the guitar, and I really 
