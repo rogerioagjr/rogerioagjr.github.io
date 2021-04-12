@@ -46,7 +46,7 @@ Cambridge, MA.
 
 I'm latino, I use he/his pronouns, and, for my fellow 
 linguists who understand [IPA](https://www.ipachart.com), my name is pronounced
-[ʁoˈʒɛɾiu ɡimɐˈɾɐ̃js].
+[&#641;oˈʒɛɾiu ɡimɐˈɾɐ̃js].
 
 Personal Interests
 ======
