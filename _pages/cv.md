@@ -69,7 +69,8 @@ Work experience
   
 * Analyzed and built a fully automated sample bond 
   trading system.
-###[Pegasystems](https://http://www.pega.com)
+  
+### [Pegasystems](https://http://www.pega.com)
 *Cambridge, MA* | *Jun 2020 - Aug 2020*
 
 **Software Engineering Intern**
