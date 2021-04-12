@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at MIT, majoring in
+I am an undergraduate student at MIT majoring in
 Computer Science and Engineering and also in Linguistics
 and Philosophy. I will graduate in June 2021 and then 
-I will begin a PhD program in [Computation and Neural
+pursue a PhD in [Computation and Neural
 Systems](https://www.cns.caltech.edu) at Caltech.
 
 I am interested in Artificial Intelligence, Cognitive 
@@ -46,26 +46,25 @@ Cambridge, MA.
 
 I'm latino, I use he/his pronouns, and, for my fellow 
 linguists who understand [IPA](https://www.ipachart.com), my name is pronounced
-[xoˈʒɛɾiu ɡimɐˈɾɐ̃js].
+[ʁoˈʒɛɾiu ɡimɐˈɾɐ̃js].
 
 Personal Interests
 ======
-I really love soccer, both playing and watching! When I
-am in Brazil, I like to attend the matches of the best
-team of the Northeast: [Fortaleza](https://twitter.com/FortalezaEC?s=20).
+I love soccer, both playing and watching! When I
+am in Brazil, I like to attend the matches of the greatest
+team in the Northeast: [Fortaleza](https://twitter.com/FortalezaEC?s=20).
 I also love the Brazilian national team, *the Seleção*, 
-and I went to the World Cup in 2014, in Brazil, and in
-2018, in Russia! At MIT, we have a Brazilian team called
-*Ousadia* that plays the Intramurals. But I don't score 
+and I went to the World Cup in 2014 in Brazil, and in
+2018 in Russia! At MIT, we have a Brazilian team called
+*Ousadia* that plays the Intramurals. I don't score 
 much though, I'm a goalie.
 
 I enjoy surfing, I also play the guitar, and I really 
 like to read. I prefer non-fiction, humanities or 
-social sciences related.
-You can see the books I read on my [goodreads account](https://www.goodreads.com/user/show/102475638-rogerio-guimaraes-junior).
-I reallr enjoy discussing books I've read!
+social sciences-related books.
+You can check out the books I read on my [goodreads account](https://www.goodreads.com/user/show/102475638-rogerio-guimaraes-junior).
 
 My favorite movies are *Into the Wild (2007)*, *Les 
 Misérables (2012)*, and *The Prestige (2006)*. My 
-favorite TV series are *Brooklyn 99*, *New Girl*, *Friends*,
-and *How I Met Your Mother*, and *The Good Place*.
+favorite TV series are *Brooklyn 99*, *New Girl*, *Friends*, 
+*How I Met Your Mother*, and *The Good Place*.
