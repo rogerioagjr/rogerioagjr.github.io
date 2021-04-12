@@ -39,10 +39,12 @@ is from Fortaleza and I lived a few years there. In
 school, I really enjoyed participating in science 
 olympiads and I got medals for Brazil in the 
 International Olympiad in Informatics in 2016 (Russia)
-and 2017 (Iran).
-
-I came to the US for the first time to attend MIT, and
+and 2017 (Iran). I came to the US for the first time to attend MIT, and
 now I live in Cambridge, MA. 
+
+I'm latino, I use he/his pronouns, and, for my fellow 
+linguists who understand [IPA](https://www.ipachart.com), my name is pronounced
+[xoˈʒɛɾiu ɡimɐˈɾɐ̃js].
 
 Personal Interests
 ======
@@ -63,5 +65,5 @@ I reallr enjoy discussing books I've read!
 
 My favorite movies are *Into the Wild (2007)*, *Les 
 Misérables (2012)*, and *The Prestige (2006)*. My 
-favorite series are *Brooklyn 99*, *New Girl*, *Friends*,
-and *How I Met Your Mother*.
+favorite TV series are *Brooklyn 99*, *New Girl*, *Friends*,
+and *How I Met Your Mother*, and *The Good Place*.
