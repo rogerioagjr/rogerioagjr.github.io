@@ -85,7 +85,7 @@ Work experience
   that pre-loaded such classes directly in the docker 
   image used in the nodes.
   
-### Organização Educacional Farias Brito -[*www.fariasbrito.com.br*](https://www.fariasbrito.com.br)
+### Organização Educacional Farias Brito - [*www.fariasbrito.com.br*](https://www.fariasbrito.com.br)
 *Fortaleza, Brazil* | *Nov 2016 - May 2017*
 
 **Competitive Programming Teacher**
