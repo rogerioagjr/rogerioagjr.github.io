@@ -55,7 +55,7 @@ am in Brazil, I like to attend the matches of the greatest
 team in the Northeast: [Fortaleza](https://twitter.com/FortalezaEC?s=20).
 I also love the Brazilian national team, *the Seleção*, 
 and I went to the World Cup in 2014 in Brazil, and in
-2018 in Russia! At MIT, we have a Brazilian team called
+2018 in Russia! At MIT, we havegit  a Brazilian team called
 *Ousadia* that plays the Intramurals. I don't score 
 much though, I'm a goalie.
 
