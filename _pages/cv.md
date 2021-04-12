@@ -87,7 +87,7 @@ Work experience
 ### [Organização Educacional Farias Brito](https://http://www.fariasbrito.com.br)
 *Fortaleza, Brazil* | *Nov 2016 - May 2017*
 
-Competitive Programming Teacher
+**Competitive Programming Teacher**
 * Taught competitive programming and logic to students
   from 6th to 12th grade in one of the best schools in 
   informatics olympiads in Brazil. Two students 
