@@ -38,7 +38,7 @@ I am from Brazil. I was born in Teresina but my family
 is from Fortaleza and I lived a few years there. In 
 school, I really enjoyed participating in science 
 olympiads and I got medals for Brazil in the 
-[International Olympiad in Informatics](ioinformatics.org)
+[International Olympiad in Informatics](http://ioinformatics.org)
 in [2016 (Russia)](http://stats.ioinformatics.org/delegations/BRA/2016) and 
 [2017 (Iran)](http://stats.ioinformatics.org/delegations/BRA/2017). I came to the
 US for the first time to attend MIT, and now I live in
