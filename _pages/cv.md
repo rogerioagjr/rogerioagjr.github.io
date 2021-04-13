@@ -107,6 +107,13 @@ Awards
   School students in the world. It requires knowledge
   on advanced data structures and algorithms and has 
   contestants from more than 80 countries.
+
+* **Caltech Tianqiao and Chrissy Chen Graduate Fellow** 
+  *(2021)*
+
+  Fellowship provided to exceptional first-year 
+  graduate students in neuroscience options at 
+  Caltech.
   
 * **MIT EECS Undergraduate Research and Innovation 
   Scholar - SuperUROP** *(2019/2020)*
