@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Personal"
+title: "Background"
 permalink: /personal/
 author_profile: true
 redirect_from:
 ---
-Background
 ======
 I am from Brazil. I was born in Teresina but my family
 is from Fortaleza and I lived a few years there. In
@@ -18,7 +17,8 @@ US for the first time to attend MIT, and now I live in
 Cambridge, MA.
 
 I'm latino, I use he/his pronouns, and, for my fellow
-linguists who understand [IPA](https://www.ipachart.com), my name is pronounced
+linguists who understand [IPA](https://www.ipachart.com), 
+my name (Rogério Guimarães) is pronounced
 [&#641;oˈʒɛɾiu ɡimɐˈɾɐ̃js].
 
 Personal Interests
