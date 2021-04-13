@@ -5,9 +5,6 @@ permalink: /personal/
 author_profile: true
 redirect_from:
 ---
-
-{% include base_path %}
-
 Background
 ======
 I am from Brazil. I was born in Teresina but my family
