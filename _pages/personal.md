@@ -5,7 +5,6 @@ permalink: /personal/
 author_profile: true
 redirect_from:
 ---
-======
 I am from Brazil. I was born in Teresina but my family
 is from Fortaleza and I lived a few years there. In
 school, I really enjoyed participating in science
