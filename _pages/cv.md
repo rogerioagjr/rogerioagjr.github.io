@@ -15,7 +15,7 @@ Education
 ======
 ### California Institute of Technology
 *Pasadena, CA* | *Sep 2021 - Jun 2026*
-* Incoming Candidate for Ph.D. in Computation and Neural Systems
+* Incoming Ph.D. Student in Computation and Neural Systems
 
 ### Massachusetts Institute of Technology
 *Cambridge, MA* | *Sep 2017 - Jun 2021*
