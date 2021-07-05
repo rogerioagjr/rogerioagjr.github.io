@@ -82,10 +82,12 @@ analytics:
 author:
   name             : "Rogério Guimarães"
   avatar           : "profile.jpeg"
-  bio              : "Incoming PhD Student in Computation <br>
-                      and Neural Systems at Caltech <br>
-                      B.S. in Computer Science and Engineering <br>
-                      and in Linguistics and Philosophy at MIT <br>"
+  bio              : "Incoming PhD Student in <br>
+                      Computation and Neural <br>
+                      Systems at Caltech. <br>
+                      B.S. in Computer Science <br>
+                      and in Linguistics and <br>
+                      Philosophy at MIT <br>"
   location         : "Stanford, CA"
   employer         :
   pubmed           :
