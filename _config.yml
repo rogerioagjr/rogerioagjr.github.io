@@ -82,10 +82,11 @@ analytics:
 author:
   name             : "Rogério Guimarães"
   avatar           : "profile.jpeg"
-  bio              : "Undergraduate student in Computer Science & <br>
-                      Linguistics and Philosophy <br>
-                      at MIT"
-  location         : "Cambridge, MA"
+  bio              : "Incoming PhD Student in Computation <br>
+                      and Neural Systems at Caltech <br>
+                      B.S. in Computer Science and Engineering <br>
+                      and in Linguistics and Philosophy at MIT <br>"
+  location         : "Stanford, CA"
   employer         :
   pubmed           :
   googlescholar    :
