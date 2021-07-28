@@ -13,8 +13,9 @@ Computer Science and Engineering and in Linguistics
 and Philosophy. Starting this Fall, I will be pursuing a
 PhD in [Computation and Neural
 Systems](https://www.cns.caltech.edu) at Caltech. During 
-this summer, I am working as a Data Science Intern at
-[Zeiss Medical Technology](https://www.zeiss.com/meditec/int/home.html?vaURL=www.zeiss.com/meditec).
+this summer, I am working with machine learning for 
+medical technologies as a Data Science Intern at
+[Zeiss](https://www.zeiss.com/meditec/int/home.html?vaURL=www.zeiss.com/meditec).
 
 I am interested in Artificial Intelligence, Cognitive 
 Science, Language Acquisition, and Philosophy of Mind.
