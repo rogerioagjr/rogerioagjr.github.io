@@ -12,8 +12,7 @@ olympiads and I got medals for Brazil in the
 [International Olympiad in Informatics](http://ioinformatics.org)
 in [2016 (Russia)](http://stats.ioinformatics.org/delegations/BRA/2016) and
 [2017 (Iran)](http://stats.ioinformatics.org/delegations/BRA/2017). I came to the
-US for the first time to attend MIT, and now I live in
-Cambridge, MA.
+US for the first time to attend MIT.
 
 I'm latino, I use he/his pronouns, and, for my fellow
 linguists who understand [IPA](https://www.ipachart.com), 
