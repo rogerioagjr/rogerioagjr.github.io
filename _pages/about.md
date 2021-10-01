@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I graduated from MIT in June 2021 with majors in
+I am a PhD student in [Computation and Neural
+Systems](https://www.cns.caltech.edu) at Caltech. I graduated from MIT in June 2021 with majors in
 Computer Science and Engineering and in Linguistics
-and Philosophy. Starting this Fall, I will be pursuing a
-PhD in [Computation and Neural
-Systems](https://www.cns.caltech.edu) at Caltech. This summer,
-I am working with machine learning for 
-medical technologies as a Data Science Intern at
-[Zeiss](https://www.zeiss.com/meditec/int/home.html?vaURL=www.zeiss.com/meditec).
+and Philosophy.
 
 I am interested in Artificial Intelligence, Cognitive 
 Science, Language Acquisition, and Philosophy of Mind.
