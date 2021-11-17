@@ -15,21 +15,21 @@ Education
 ======
 ### California Institute of Technology
 *Pasadena, CA* | *Sep 2021 - Jun 2026*
-* Incoming Ph.D. Student in Computation and Neural Systems
+* Ph.D. Student in Computation and Neural Systems
 
 ### Massachusetts Institute of Technology
 *Cambridge, MA* | *Sep 2017 - Jun 2021*
-* Candidate for Bachelor of Science in Computer Science and Engineering
-* Candidate for Bachelor of Science in Linguistics and Philosophy
+* Bachelor of Science in Computer Science and Engineering
+* Bachelor of Science in Linguistics and Philosophy
 
 Work experience
 ======
 ### MIT Laboratory for Information and Decision Systems (LIDS) - [*www.lids.mit.edu*](http://www.lids.mit.edu)
-*Cambridge, MA* | *Jan 2019 - Present*
+*Cambridge, MA* | *Jan 2019 - May 2021*
 
 **Undergraduate Researcher**
 * **Reinforcement Learning for Agricultural Management 
-  Policy Recommendation** *(February 2020 - Present)*
+  Policy Recommendation** *(February 2020 - May 2021)*
 
   Developed models for automated optimal 
   decision-making in agricultural management in 
