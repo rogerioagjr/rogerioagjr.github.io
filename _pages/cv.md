@@ -24,6 +24,17 @@ Education
 
 Work experience
 ======
+### Caltech Computational Vision Laboratory - [*www.vision.caltech.edu*](http://www.vision.caltech.edu)
+*Pasadena, CA* | *April 2022 - Present*
+
+**Graduate Researcher**
+* **Reverse Engineering Animal Natural Algorithms for Navigation**
+
+  Researching the learning algorithms used by mice to navigate 
+  complex mazes. The goal is to reproduce, in AI models, features
+  of animal navigation such as efficient exploration, few-shot 
+  learning, and rapid adaptation to environment changes.
+
 ### MIT Laboratory for Information and Decision Systems (LIDS) - [*www.lids.mit.edu*](http://www.lids.mit.edu)
 *Cambridge, MA* | *Jan 2019 - May 2021*
 
@@ -31,12 +42,10 @@ Work experience
 * **Reinforcement Learning for Agricultural Management 
   Policy Recommendation** *(February 2020 - May 2021)*
 
-  Developed models for automated optimal 
-  decision-making in agricultural management in 
-  Sub-Saharan Africa based on crop yield using Deep 
-  Reinforcement Learning. The WOFOST model was used 
-  to simulate farms and generate artificial data to 
-  train the models. This work is still in completion.
+  Developed models for automated optimal decision making in 
+  agricultural management in Sub-Saharan Africa based on crop 
+  yield using Deep Reinforcement Learning. Used the WOFOST model 
+  to generate simulated data to train the models.
   
 * **Nonlinear Dynamical Systems** *(September 2019 - 
   December 2019)*
@@ -45,9 +54,7 @@ Work experience
   in predicting the behavior of Nonlinear Dynamical 
   Systems. Found that Convolutional layers improved 
   sensibility to local changes in the behavior of the 
-  system. Presented the work in a poster in the 
-  SuperUROP Showcase, part of the Advanced 
-  Undergraduate Research Opportunity Program.
+  system.
   
 * **Seizure Detection** *(January 2019 - May 2019)*
   
@@ -55,8 +62,16 @@ Work experience
   in epilepsy patients based on time-series data from
   their EEG readings. Identified feature extraction 
   and data resampling techniques that maintained 
-  interpretability while maximizing the accuracy of 
-  common machine learning models.
+  interpretability while maximizing the accuracy.
+
+### Zeiss Medical Technology - [*www.zeiss.com*](https://www.zeiss.com)
+*Dublin, CA* | *Jun 2021 - Sep 2021*
+
+**Data Science Intern**
+* Upgraded the algorithms used in the automated segmentation 
+  of OCT images from UNets to Transformers. Implemented the 
+  new algorithm without hurting execution time by processing 
+  OCT images as sequences of 1D A-scans, instead of 2D input.
 
 ### Bridgewater Associates - [*www.bridgewater.com*](https://www.bridgewater.com)
 *Westport, CT* | *Jun 2020 - Aug 2020*
@@ -64,8 +79,8 @@ Work experience
 **Investment Engineering Intern**
 * Utilizing learned macroeconomics concepts and 
   understanding of global markets, analyzed select 
-  case studies to develop hypothesis of what was
-  happening in the business cycle.
+  case studies to develop hypotheses to explain and
+  predict the business cycle.
   
 * Analyzed and built a fully automated sample bond 
   trading system.
@@ -124,15 +139,13 @@ Awards
   
 * **MIT Burchard Scholar** *(2019/2020)*
 
-  Selected group of 38 undergraduate students who 
-  have demonstrated outstanding abilities and 
-  academic excellence in some aspect of the humanistic
-  fields: the humanities, arts, and social sciences.
+  Selected group of students who have demonstrated 
+  outstanding abilities and academic excellence in
+  the humanistic fields.
 
 * **Estudar Fellow** *(2017)*
 
-  Founded by the three most prominent Brazilian 
-  businessmen, Fundação Estudar awards scholarships 
-  and connects talents who want to positively impact 
-  Brazil (33 selected among 83,000 applicants).
+  Fundação Estudar awards scholarships and connects 
+  talents who want to positively impact Brazil 
+ (33 selected from 83,000).
 
