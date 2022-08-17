@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in [Computation and Neural
 Systems](https://www.cns.caltech.edu) at Caltech, advised by [Prof.
-Pietro Perona](http://www.vision.caltech.edu/Perona.html). I graduated from MIT in June 2021 with majors in
+Pietro Perona](https://www.bbe.caltech.edu/people/pietro-perona). I graduated from MIT in June 2021 with majors in
 Computer Science and Engineering and in Linguistics
 and Philosophy.
 
