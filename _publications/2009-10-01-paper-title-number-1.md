@@ -2,9 +2,12 @@
 title: "Text-image Alignment for Diffusion-based Perception"
 collection: publications
 permalink: /publication/20023-09-29-tadp
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We use automatically generated captions to improve the text-image aligment
+of a diffusion backbone in downstream visual tasks such as semantic segmentation, depth
+estimation and object detection. Our method also achieves improves the SOTA in 
+both single-domain and cross-domain tasks.'
 date: 2023-09-29
-#venue: 'preprint'
+venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2310.00031'
 citation: 'Neehar Kondapaneni, Markus Marks, Manuel Knott, Rogério Guimarães, & 
 Pietro Perona. (2023). Text-image Alignment for Diffusion-based Perception.'
