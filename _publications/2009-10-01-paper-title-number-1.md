@@ -12,7 +12,8 @@ paperurl: 'https://arxiv.org/abs/2310.00031'
 citation: 'Neehar Kondapaneni, Markus Marks, Manuel Knott, Rogério Guimarães, & 
 Pietro Perona. (2023). Text-image Alignment for Diffusion-based Perception.'
 ---
-[Paper](https://arxiv.org/abs/2310.00031) | [Project Page](https://rogeriojr.com/tadp/)
+[Paper](https://arxiv.org/abs/2310.00031) |
+[Project Page](https://rogeriojr.com/tadp/)
 
 Diffusion models are generative models with impressive text-to-image synthesis 
 capabilities and have spurred a new wave of creative methods for classical machine 
