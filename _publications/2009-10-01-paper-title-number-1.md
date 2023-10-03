@@ -4,11 +4,13 @@ collection: publications
 permalink: /publication/20023-09-29-tadp
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-09-29
-venue: 'preprint'
+#venue: 'preprint'
 paperurl: 'https://arxiv.org/abs/2310.00031'
-citation: '
-Neehar Kondapaneni, Markus Marks, Manuel Knott, Rogério Guimarães, & Pietro Perona. (2023). Text-image Alignment for Diffusion-based Perception. <i>arXiv preprint arXiv:2310.00031</i>.'
+citation: 'Neehar Kondapaneni, Markus Marks, Manuel Knott, Rogério Guimarães, & 
+Pietro Perona. (2023). Text-image Alignment for Diffusion-based Perception.'
 ---
+[Paper](https://arxiv.org/abs/2310.00031) [Project Page](https://rogeriojr.com/tadp/)
+
 Diffusion models are generative models with impressive text-to-image synthesis 
 capabilities and have spurred a new wave of creative methods for classical machine 
 learning tasks. However, the best way to harness the perceptual knowledge of these 
@@ -23,7 +25,3 @@ personalization and caption modifications to align our model to the target domai
 find improvements over unaligned baselines. Our object detection model, trained on 
 Pascal VOC, achieves SOTA results on Watercolor2K. Our segmentation method, trained 
 on Cityscapes, achieves SOTA results on Dark Zurich-val and Nighttime Driving.
-
-[Download paper here](https://arxiv.org/abs/2310.00031)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
