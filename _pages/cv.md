@@ -71,7 +71,7 @@ Work experience
 * Upgraded the algorithms used in the automated segmentation 
   of OCT images from UNets to Transformers. Implemented the 
   new algorithm without hurting execution time by processing 
-  OCT images as sequences of 1D A-scans, instead of 2D input.
+  OCT images as sequences of 1D A-scans, instead of 2D input. Patent No. US 2023/0196572 A1
 
 ### Bridgewater Associates - [*www.bridgewater.com*](https://www.bridgewater.com)
 *Westport, CT* | *Jun 2020 - Aug 2020*
