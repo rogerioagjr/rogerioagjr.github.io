@@ -21,21 +21,17 @@ my name (Rogério Guimarães) is pronounced
 
 Personal Interests
 ======
-I love soccer, both playing and watching! When I
+I love soccer, both playing and watching! I don't score
+much though, I'm a goalie. When I
 am in Brazil, I like to attend the matches of the greatest
 team in the Northeast: [Fortaleza](https://twitter.com/FortalezaEC?s=20).
 I also love the Brazilian national team, *the Seleção*,
 and I went to the World Cup in 2014 in Brazil, and in
-2018 in Russia! At MIT, we havegit  a Brazilian team called
-*Ousadia* that plays the Intramurals. I don't score
-much though, I'm a goalie.
+2018 in Russia!
 
-I enjoy surfing, I also play the guitar, and I really
-like to read. I prefer non-fiction, humanities or
-social sciences-related books.
+I enjoy surfing, playing the guitar, and reading. I prefer non-fiction, 
+humanities or social sciences-related books.
 You can check out the books I read on my [goodreads account](https://www.goodreads.com/user/show/102475638-rogerio-guimaraes-junior).
 
 My favorite movies are *Into the Wild (2007)*, *Les
-Misérables (2012)*, and *The Prestige (2006)*. My
-favorite TV series are *Brooklyn 99*, *New Girl*, *Friends*,
-*How I Met Your Mother*, and *The Good Place*.
+Misérables (2012)*, and *The Prestige (2006)*.
