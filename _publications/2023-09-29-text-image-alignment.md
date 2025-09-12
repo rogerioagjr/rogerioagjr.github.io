@@ -7,10 +7,12 @@ of a diffusion backbone in downstream visual tasks such as semantic segmentation
 estimation and object detection. Our method also achieves improves the SOTA in 
 both single-domain and cross-domain tasks.'
 date: 2023-09-29
-venue: 'arXiv preprint'
+venue: 'CVPR'
 paperurl: 'https://arxiv.org/abs/2310.00031'
-citation: 'Neehar Kondapaneni, Markus Marks, Manuel Knott, Rogério Guimarães, & 
-Pietro Perona. (2023). Text-image Alignment for Diffusion-based Perception.'
+citation: 'Neehar Kondapaneni, Markus Marks, Manuel Knott,
+ Rogerio Guimaraes, Pietro Perona; Proceedings of the 
+ IEEE/CVF Conference on Computer Vision and Pattern 
+ Recognition (CVPR), 2024, pp. 13883-13893'
 ---
 [Paper](https://arxiv.org/abs/2310.00031) |
 [Project Page](https://www.vision.caltech.edu/tadp/)
