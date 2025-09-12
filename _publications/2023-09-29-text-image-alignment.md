@@ -6,7 +6,7 @@ excerpt: 'We use automatically generated captions to improve the text-image alig
 of a diffusion backbone in downstream visual tasks such as semantic segmentation, depth
 estimation and object detection. Our method also achieves improves the SOTA in 
 both single-domain and cross-domain tasks.'
-date: 2023-09-29
+date: 2024-06
 venue: 'CVPR'
 paperurl: 'https://arxiv.org/abs/2310.00031'
 citation: 'Neehar Kondapaneni, Markus Marks, Manuel Knott,
