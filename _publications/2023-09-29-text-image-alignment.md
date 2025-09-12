@@ -1,12 +1,12 @@
 ---
 title: "Text-image Alignment for Diffusion-based Perception"
 collection: publications
-permalink: /publication/20023-09-29-tadp
+permalink: /publication/2023-09-29-tadp
 excerpt: 'We use automatically generated captions to improve the text-image alignment
 of a diffusion backbone in downstream visual tasks such as semantic segmentation, depth
 estimation and object detection. Our method also achieves improves the SOTA in 
 both single-domain and cross-domain tasks.'
-date: 2024-06
+date: 2024-06-16
 venue: 'CVPR'
 paperurl: 'https://arxiv.org/abs/2310.00031'
 citation: 'Neehar Kondapaneni, Markus Marks, Manuel Knott,
