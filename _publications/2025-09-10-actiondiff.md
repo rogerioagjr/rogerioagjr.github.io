@@ -19,6 +19,7 @@ recognition closer to human-like robustness.'
 date: 2026-03-06
 venue: 'WACV'
 paperurl: 'https://arxiv.org/abs/2509.08908'
+authors: '**Rogério Guimarães**, Frank Xiao, Pietro Perona & Markus Marks'
 link: 'https://www.vision.caltech.edu/actiondiff/'
 ---
 [Paper](https://arxiv.org/abs/2509.08908) |

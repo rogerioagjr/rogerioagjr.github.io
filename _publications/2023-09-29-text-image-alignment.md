@@ -9,10 +9,7 @@ both single-domain and cross-domain tasks.'
 date: 2024-06-16
 venue: 'CVPR'
 paperurl: 'https://arxiv.org/abs/2310.00031'
-citation: 'Neehar Kondapaneni, Markus Marks, Manuel Knott,
- Rogerio Guimaraes, Pietro Perona; Proceedings of the 
- IEEE/CVF Conference on Computer Vision and Pattern 
- Recognition (CVPR), 2024, pp. 13883-13893'
+authors: 'Neehar Kondapaneni, Markus Marks, Manuel Knott, **Rogério Guimarães** & Pietro Perona'
 link: 'https://www.vision.caltech.edu/tadp/'
 ---
 [Paper](https://arxiv.org/abs/2310.00031) |
