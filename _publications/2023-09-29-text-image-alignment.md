@@ -11,6 +11,7 @@ venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2310.00031'
 citation: 'Neehar Kondapaneni, Markus Marks, Manuel Knott, Rogério Guimarães, & 
 Pietro Perona. (2023). Text-image Alignment for Diffusion-based Perception.'
+link: 'https://www.vision.caltech.edu/tadp/'
 ---
 [Paper](https://arxiv.org/abs/2310.00031) |
 [Project Page](https://www.vision.caltech.edu/tadp/)

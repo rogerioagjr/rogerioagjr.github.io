@@ -8,6 +8,7 @@ process an image as 1D sequence of A-scans and treat each of them as a token, in
 processing a 2D image, which is more computationally efficient.'
 date: 2023-06-22
 venue: 'US Patent'
+link: 'https://patents.google.com/patent/US20230196572A1'
 ---
 [PDF](https://rogeriojr.com/files/oct-patent.pdf) |
 [Google Patents](https://patents.google.com/patent/US20230196572A1)
