@@ -43,7 +43,13 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% if post.positions %}
+            {% for position in post.positions %}
+              <p> {{ position.type }}, <i>{{ position.venue }}</i>, {{ position.year }} </p>
+            {% endfor %}
+          {% else %}
+            <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% endif %}
         {% elsif post.collection == 'publications' and post.authors %}
           {% comment %} venue and year are already shown inline with the authors above {% endcomment %}
         {% elsif post.collection == 'publications' %}

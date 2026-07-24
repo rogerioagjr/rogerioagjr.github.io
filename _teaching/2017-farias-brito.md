@@ -11,7 +11,7 @@ location: "Fortaleza, Brazil"
 I was a teacher of competitive programming for middle 
 and high school students preparing for the [Brazilian
 Olympiad in Informatics](https://olimpiada.ic.unicamp.br) and the [International
-Olympiad in Informatics](ioinformatics.org) at [Organização Educacional
+Olympiad in Informatics](https://ioinformatics.org) at [Organização Educacional
 Farias Brito](https://www.fariasbrito.com.br).
 
 I worked there from Nov 2016, after graduating from high
