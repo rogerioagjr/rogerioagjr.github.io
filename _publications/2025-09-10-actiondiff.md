@@ -16,10 +16,10 @@ Our model sets a
 new state-of-the-art across three 
 generalization benchmarks, bringing machine action 
 recognition closer to human-like robustness.'
-date: 2025-09-10
-venue: 'arXiv preprint'
+date: 2026-03-06
+venue: 'WACV'
 paperurl: 'https://arxiv.org/abs/2509.08908'
-citation: 'Rogerio Guimaraes, Frank Xiao, Pietro Perona & Markus Marks. (2025). Diffusion-Based Action Recognition Generalizes to Untrained Domains.'
+link: 'https://www.vision.caltech.edu/actiondiff/'
 ---
 [Paper](https://arxiv.org/abs/2509.08908) |
 [Project Page](https://www.vision.caltech.edu/actiondiff/)
